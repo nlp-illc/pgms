@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Past editions of Course
+title: Past editions of PGMs
 ref: past
 permalink: /past/
 ---
