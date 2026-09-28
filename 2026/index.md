@@ -9,9 +9,6 @@ menu:
 ---
 
 
-# Schedule
-
-
 # Syllabus
 
 | Week | Topic | HCa | LC | HCb | WC | Friday |
