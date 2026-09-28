@@ -1,23 +1,33 @@
 ---
 layout: home
-title: Course 2026
+title: PGMS 2026
 ref: home
 permalink: /2026/
 menu:
-- Schedule
+- Syllabus
 - Team
 ---
 
 
 # Schedule
 
-* Classes: weeks 1--7 (incl. week 4, as we do not have a midterm exam);
-* Exam: week 8;
-* Schedule with time and rooms: see it on Datanose;
-* Detailed [syllabus](./syllabus);
+
+# Syllabus
+
+| Week | Topic | HCa | LC | HCb | WC | Friday |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Bayesian networks (BNs) | Introduction \| BNs (semantics) |  BNs in Python | BNs (reasoning) \| BNs (influence) | Exam-like exercises (BNs) | P1
+| 2 | Markov networks (MNs) | MNs (semantics) \| MNs (reasoning) | MNs in Python | MNs (influence) \| Comparing BNs and MNs |  Exam-like exercises (MNs) | P2 |
+| 3 | Exact inference by variable elimination (VE) | Sum-product VE | VE in Python | Max-product VE | Exam-like exercises (VE) | P3 |
+| 4 | Midterm week | - | - |  - | -  |  - |
+| 5 | Sampling-based inference | Monte Carlo and forward sampling | Sampling-based inference in Python | Markov chain Monte Carlo | Exam-like exercises (sampling-based inference) | P4 |
+| 6 | Learning | BNs (learning) |  BN learning in Python | Unobserved variables | Exam-like exercises (BN learning) | P5 |
+| 7 | Learning | MNs (learning) |  MN learning in Python | Unobserved variables \| Course overview | Exam-like exercises (MN learning) |  P6 |
+| 8 | Endterm week | - | - | - | - | - |
+
 
 
 # Team
 
-TBA
+* Coordinator: Wilker Aziz
 

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Course 2025
+title: PGMS 2025
 permalink: /2025/
 menu:
 - Schedule
@@ -8,14 +8,11 @@ menu:
 ---
 
 
-# Schedule
+# Syllabus
 
-* Classes: weeks 1--7 (incl. week 4, as we do not have a midterm exam);
-* Exam: week 8;
-* Schedule (with time and rooms): see it on Datanose;
-* Detailed [syllabus](./syllabus);
+The teaching materials are accessible from [here](https://github.com/probabll/pgms-student/tree/edition-2025).
 
 
 # Team
 
-* Coordinators: TBA
+* Coordinators: Wilker Aziz

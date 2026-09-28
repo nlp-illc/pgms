@@ -1,8 +1,8 @@
-title: Course
-description: "Course @ UvA/MSc-AI"
+title: PGMs
+description: "PGMs @ UvA/BKI"
 
 url: https://nlp-illc.github.io # the base hostname & protocol for your site
-baseurl: /course # the subpath of your site, e.g. /course/. Leave blank for root
+baseurl: /pgms/ # the subpath of your site, e.g. /course/. Leave blank for root
 
 remote_theme: lorepirri/cayman-blog
 
