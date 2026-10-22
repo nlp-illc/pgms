@@ -5,6 +5,7 @@ ref: home
 permalink: /2026/
 menu:
 - Syllabus
+- Practicals
 - Team
 ---
 
@@ -23,6 +24,16 @@ menu:
 | 8 | Endterm week | - | - | - | - | - |
 
 
+# Practicals
+
+You can fork [our repository](https://github.com/probabll/pgms-student). 
+
+1. BNs
+2. MNs
+3. Exact inference
+4. Sampling-based inference
+5. Learning (BNs)
+6. Learning (MNs)
 
 # Team
 
