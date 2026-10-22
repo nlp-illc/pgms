@@ -12,7 +12,7 @@ menu:
 
 # Syllabus
 
-| Week | Topic | HCa | LC | HCb | WC | Friday |
+| Week | Topic | HCa | LC | HCb | WC | Practical |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Bayesian networks (BNs)](https://raw.githubusercontent.com/probabll/pgms-student/main/lectures/BNs.pdf) | [Introduction](https://raw.githubusercontent.com/probabll/pgms-student/main/lectures/Introduction.pdf) \| BNs (semantics) |  BNs in Python | BNs (reasoning) \| BNs (influence) | Exam-like exercises (BNs) | P1
 | 2 | [Markov networks (MNs)](https://raw.githubusercontent.com/probabll/pgms-student/main/lectures/MNs.pdf) | MNs (semantics) \| MNs (reasoning) | MNs in Python | MNs (influence) \| Comparing BNs and MNs |  Exam-like exercises (MNs) | P2 |
